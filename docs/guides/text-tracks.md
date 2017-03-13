@@ -214,7 +214,7 @@ In general, `"descriptions"` tracks are of lower precedence than `"captions"` an
 
 ## API
 
-For more complete information, refer to the [Video.js API docs](http://docs.videojs.com/docs/api/index.html).
+For more complete information, refer to the [Video.js API docs](http://docs.videojs.com/).
 
 ### Remote Text Tracks
 

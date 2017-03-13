@@ -58,12 +58,12 @@ Finally, each file's extension is always `.json`.
 
 ### Updating an Existing Translation
 
-If there is a [missing translation](../translations-needed.md), mistake, or room for improvement in an existing translation, don't hesitate to open a pull request!
+If there is a [missing translation](/docs/translations-needed.md), mistake, or room for improvement in an existing translation, don't hesitate to open a pull request!
 
 1. Edit the relevant JSON file and make the necessary changes.
 1. Verify the language compiles by running `grunt dist`.
 1. Verify the translation appears properly in the player UI.
-1. Run `grunt check-translations` to update the [missing translation document](../translations-needed.md).
+1. Run `grunt check-translations` to update the [missing translation document](/docs/translations-needed.md).
 1. Commit and open a pull request on GitHub.
 
 ### Writing a New Translation
@@ -149,8 +149,8 @@ Standard languages codes [are defined by the IANA][lang-codes].
 
 For all existing/supported languages, please see the [languages lolder (`lang/`)][lang-supported] folder located in the project root.
 
-[lang-en]: https://github.com/videojs/video.js/tree/master/lang/en.json
+[lang-en]: /lang/en.json
 
-[lang-supported]: https://github.com/videojs/video.js/tree/master/lang
+[lang-supported]: /lang
 
 [lang-codes]: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
